@@ -1,3 +1,12 @@
+E&L-Ingenieros/
+├── index.html
+├── css/
+│   └── styles.css
+├── img/
+│   └── logo.png
+└── assets/
+    └── contacto.html
+    
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -32,9 +41,9 @@
     </section>
     <section id="contacto">
         <h2>Contacto</h2>
-        <p>Dirección: Av. Paseo de la República 3195, San Isidro, Lima, Perú</p>
-        <p>Teléfono: (01) 914309806</p>
-        <p>Email: contacto@elconsultores.com.pe</p>
+        <p>Dirección: Juliaca </p>
+        <p>Teléfono: 955198929 </p>
+        <p>Email: elingenierosyconsultores@gmail.com </p>
     </section>
     <footer>
         <p>&copy; 2025 E&L Ingenieros y Consultores</p>
